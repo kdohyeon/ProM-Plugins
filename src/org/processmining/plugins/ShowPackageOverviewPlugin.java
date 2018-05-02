@@ -27,7 +27,7 @@ public class ShowPackageOverviewPlugin implements HTMLToString {
 		pluginDescriptors = context.getPluginManager().getAllPlugins();
 	}
 
-	@UITopiaVariant(affiliation = UITopiaVariant.EHV, author = "H.M.W. Verbeek", email = "h.m.w.verbeek@tue.nl")
+	@UITopiaVariant(affiliation = UITopiaVariant.POSTECH, author = "H.M.W. Verbeek", email = "h.m.w.verbeek@tue.nl")
 	@PluginVariant(variantLabel = "Default", requiredParameterLabels = {})
 	public static HTMLToString info(final UIPluginContext context) {
 		return new ShowPackageOverviewPlugin(context);
