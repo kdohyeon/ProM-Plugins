@@ -31,5 +31,6 @@
 	<classpathentry kind="lib" path="D:/eclipse-workspace/prom/lib/weka.jar"/>
 	<classpathentry kind="lib" path="D:/eclipse-workspace/prom/lib/xstream-1.4.10.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/prom/lib/PetriNets-latest.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
